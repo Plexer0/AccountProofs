@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I, Plexer0, certify that I have ownership of the following account(s):
+
+Service: GitHub
+Profile URL: https://github.com/Plexer0 (Personal)
+Profile URL: https://github.com/ThePlexRepo-Bot (F-Droid Bot)
+
+As such, this file is being signed with the GPG key:
+
+GPG Key ID: 084BE9FA4F35AAF5
+Fingerprint: DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE3+3cDO6h8O6Mmd3KCEvp+k81qvUFAmKwGbgACgkQCEvp+k81
+qvWiKgv/QaUfWxlAVMbgRxdyW+mQccSs84zuxWHw7eyrx7xqZkaAD6QcdxuYejAH
+2JLNbV8K6iRt04IHE29PpTDRFmmLYgzhHqgH7EfIPTSQMgl9hiSytH3TktUCYCM7
+w+PE23hiPJ6XxgJ4CG9fwgMHWIEbTabKS/TEoWX6lYhuf5T/BGPIgWxgUcBmMGSi
+Rt9DTNEhLl30yD68/EEkCukqKjEt5mFA/td9Fz8KDEyPfmnjZ8xAQt3rQp7G4n1l
+H7yVIIod/5YUp+Af/GuLIflkzUm7TGOmDPPilnudfYPgri325vnR1opaYb5Kro9h
+3zhpDm2Zw2gFFleaiYiXZmV5wishn5L7WEmXWmp2BAJ6fe393bPjDIwlJPGv5PI6
+bxT9KDQ/rgv+tf+0gnaoLg/pN67PYsckxozEUMJApIB5HaESP1UPfIonKQ1G9qNo
+5BKLsaI6ptQKYXUjCVbyc+HdHdxVO2Fya5xH3W9/Na6TAF1l3xNvQ0/+gTkeVbv4
+Igh7U1qB
+=7l5q
+-----END PGP SIGNATURE-----
