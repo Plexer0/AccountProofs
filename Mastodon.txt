@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I, Plexer0, certify that I have ownership of the following account(s):
+
+Service: Mastodon
+Profile URL: https://mastodon.social/@Plexer0 (Personal)
+
+As such, this file is being signed with the GPG key:
+
+GPG Key ID: 084BE9FA4F35AAF5
+Fingerprint: DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE3+3cDO6h8O6Mmd3KCEvp+k81qvUFAmKwGkgACgkQCEvp+k81
+qvUoAgv5AXkWRO/mgyCLT8F6CN85YHPVoiZYSfkCdIL0WjSgC+ZzaspCDDmDV+Nw
+IpwMRaTqHXnyNhU6dUdm74N28NilGsekJryoZSAC//aGT4QWl+/APnseFM86wEW1
+sK3IbDipoxv9fpIaRjdgHlXR53tktevCyuiFQ0tZA9dok9ym02m9ZEXtDeK++69U
+jlz6LhCpu4jfnIEdAoTQyjuBmNKoIEF1QRjY9DylCLsxy2KP2pV4pJ+QTuIdkySG
+kVJJg1tSb9jq24ghrGN5SzbgcH5XwVhbWtzEXD1Q07vS+O425/faMJrFVIwnVhwA
+4suIBVW9jToeMdFJkoGll34/ACFbtTY0QndXEKEJh7wcGjW5kKcUfSR75rnB4nRi
+siuH+SwEknOgV9GCB8yJ3r1/JBa/R4ZYoZzZOdKnVq1Cu6DQ/KyfwsEqTwKxyJSW
+LyN7KGXYAsJCA/9m1YhnTK4/C2Bi7opvqpTSRZMxI9l1dtc00rjli7zGclEMmydx
+CkPZ85a/
+=4yOM
+-----END PGP SIGNATURE-----
