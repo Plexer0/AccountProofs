@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I, Plexer0, certify that I have ownership of the following account(s):
+
+Service: Codeberg
+Profile URL: https://codeberg.com/Plexer0 (Personal)
+
+As such, this file is being signed with the GPG key:
+
+GPG Key ID: 084BE9FA4F35AAF5
+Fingerprint: DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE3+3cDO6h8O6Mmd3KCEvp+k81qvUFAmKwGh0ACgkQCEvp+k81
+qvU5dgwAhBscnKh/LWP+anZ0dfZ6gevm2VkxmgSq+ZKraATbPYvdP690VbD7vA1W
+hAKWtc1AWzjF9iGciaOQKHgbcJp324bU0q0GWaDXxGj6HbandAlZFLaiC+2TAXLy
+Df58XlmQxZd+XUjuQE12bAActAZ7Ql6RN1SJTVHrbLsfdNSZhTUaVGtHn9lkVj3z
+/yzaArhveL958DJ5UPL0+46eVwyk+rRTfGAe8N4U7UvERDvF0d5QBSPS/MiD+0LU
+oElAhgfbluyAQBpypqUqpG+JuyTbzsYccg3mVUPII39sM5dnDWS0A/If7gx9tZEW
+sq0DuJ/GDR8/iV/Cf915tk6VVLExr/HPOofRBYRIwrwHsvNBXgKq1ukhaS+F/gUY
+rPqZMCsc+rMKfBumj4q0Vz4FRtQoIho/qGsRpOhduYWRwIBIPu951494YtZFbluX
+noy/wzi7GIyCxGLT607j07hh4jOIywf5uJn36G8+DQxCKvaTAYFsOx4myIs9AGU0
+gf5Y5eLf
+=WL/0
+-----END PGP SIGNATURE-----
