@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I, Plexer0, certify that I have ownership of the following account(s):
+
+Service: Matrix
+Profile URL: https://matrix.to/#/@plexer0:matrix.org (Personal)
+
+As such, this file is being signed with the GPG key:
+
+GPG Key ID: 084BE9FA4F35AAF5
+Fingerprint: DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE3+3cDO6h8O6Mmd3KCEvp+k81qvUFAmKwGu0ACgkQCEvp+k81
+qvW+BwwAiQ7wgKThJl2MB5dq5GL3AsifFHbWWa0zibX8LzXq4Qb35VTzU2piMARU
+2EjLIOeuPCY0fnO5102XTtiAILE2UPT6fxI8CE6VIv+L2SUQelmKKJLbd9yUcHIY
+nX1avON06IISeT9bcIQ4hdnwazT7EcQtcrRQl+Yry8ZasLdZpKgjwj2KnDGUW4Q9
++B/AxjoAt0Hm6Twh5R+S6AwuQi9r7epk9zAn+5hKPt04bJVY5W+q47Fw1ozSk8+/
+ovIpUnnAFJz3MB1kQCu94UWKIK6tO3ZMzV5tyxYgcIpphiH1sPseBrxlKxgmDUVj
+WqYMs+wilObL3vjCMZErGf3AyCu0v1XgMgpZL16fmFbseLihONKRBE0Ex/56qMZ4
+PWcCe2kzzpTiHpK9GWrnpq+2Z6czulce0xjSZmYDf2Tf7o7bZJQux7OJ5nwgp4I5
+J13uL8wz9fBS06QvDDWPFAYL2eY3c3VDQ4PGg59XK37+TrZ/skfBe4akTGmNlkxa
+8hSVzur1
+=4/Ob
+-----END PGP SIGNATURE-----
