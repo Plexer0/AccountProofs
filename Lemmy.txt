@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I, Plexer0, certify that I have ownership of the following account(s):
+
+Service: Lemmy
+Profile URL: https://lemmy.ml/Plexer0 (Personal)
+
+As such, this file is being signed with the GPG key:
+
+GPG Key ID: 084BE9FA4F35AAF5
+Fingerprint: DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE3+3cDO6h8O6Mmd3KCEvp+k81qvUFAmKwGmcACgkQCEvp+k81
+qvVhlAv/caMD7ePnjbO+ryRz9zJ2DxayRegTe4N7KO/i01/0Bv87d2Rld9yxemU3
+3MRWLGWbpwwErIifsu44fk597yVDTwl5rAidmuUcVSvo3ZBEIzTJjgXhdWYdV/Nw
+XkxoUj57dB4VmmHmpNuAn2TPNeEDaeDvVFckoLWVbuBB6z0hRMrjoutprVMV4vWQ
+wVDzpj2JwJZdodg0SUIGhymo/Ctn8k/jbvgqN3KJSh1Af/u57HwJp14xX9TzCVr2
+LEtdL/HRkO4alzSdyJI0IWg5j+5G2iR65s2ddeVM0+u51dqZ7s76S6RbfLuMjWAW
+5p8yAooVFBKsxii+6u9lDGbGKwgZREeWvFx2KV5+q8q66HxAsPLFB8DrVdngFD7e
+V086ncQyxzEdBWskPyiXgloreeFg7qGTQ862cTKw8xzwhyCJRykEry5cxsNLBi5L
+MZd3VRfg3JCzELn+bqCaF30/eu8S+pkIlGFM9mDIuUS8TujTKrEfYuoeIBHi6j9q
+j32yP1pP
+=xDC1
+-----END PGP SIGNATURE-----
