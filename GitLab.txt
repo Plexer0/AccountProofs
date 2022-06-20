@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I, Plexer0, certify that I have ownership of the following account(s):
+
+Service: GitLab
+Profile URL: https://gitlab.com/Plexer0 (Personal)
+Profile URL: https://gitlab.com/ThePlexRepo-Bot (F-Droid Bot)
+
+As such, this file is being signed with the GPG key:
+
+GPG Key ID: 084BE9FA4F35AAF5
+Fingerprint: DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE3+3cDO6h8O6Mmd3KCEvp+k81qvUFAmKwGekACgkQCEvp+k81
+qvV1Cwv/Uy+FOalfO9PvD5+0LPUSHXcshaW7jTT+LNQrF8pBxGo95yHq71hVRwIN
+1hGrOwPfiuQANMTFOFoNFiMGzY9ftQluzlh+Rs+39r0kWrtejimrAX1vnkFmbfGU
+tNi9lkAM946nlqXuILZZAStRNzUnJtTscTns79AzH7JssyM0vdB390NCJ8qray2M
+OnXxf6YyXvEsU71sO8vwBJAzGInOUsTZfDloJ3srdOnyKELDE4sIAJnUb6dRr8Do
+sUQI+CXyD5kWtuRfhXKjDtD9YCI7nVzUgLCb51mAFfWLQdmvo+mg9cRd33+Cm1f+
+ef6j7a/4WQxsCmK7uZm8FbrUiuuE7ANy6cZjt4qJTptZUD8niLvLS+/q+nXrbJ3G
+lyImjSZLb1A9beUM1hriKS3FOP76goUv8dYx63flJO0+/2P181+rvQftibPUoMeb
+hIhgSXR8XIGSV122oUYBvdvlYkt1VUAPTPkHolEqB6Ekey33HehOxLAnNGzi8LRv
+cZozXDNE
+=Mkvy
+-----END PGP SIGNATURE-----
